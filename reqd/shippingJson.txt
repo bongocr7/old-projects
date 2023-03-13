@@ -1,0 +1,8 @@
+{
+  "street": "xyz street",
+  "landmark": "hdsjkjs",
+  "city": "xyz city",
+  "state": "xyz state",
+  "zip": "88653",
+  "country": "xyz country",
+}

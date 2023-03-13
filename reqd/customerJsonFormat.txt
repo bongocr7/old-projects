@@ -1,0 +1,8 @@
+{
+  "name":"xyz",
+  "phoneNumber":9999999999,
+  "emailAddress":"xyz@mail.com",
+  "address":"xyz street",
+  "orders":["1cdf","2csg"]
+  "wishlist":["26gsg","637hdjk"]
+}

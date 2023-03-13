@@ -1,0 +1,9 @@
+{
+  "productId":"1xyz",
+  "productTitle":"hsdaj",
+  "productImage":["nsnms","shgha","sa5627"],
+  "productDescription":"loremhahdjkhlkjkskadlnsda ",
+  "productSizes":[x,xl,xxl],
+  "productColors":["blue","green"]
+  "availability":"false"
+}
